@@ -1,5 +1,4 @@
 # Bài thực hành 2: Thu thập và Tiền xử lý dữ liệu IoT
-
 ## 1. Thông tin sinh viên
 - **Họ và tên:** Trần Ngọc Huy
 - **Mã sinh viên:** B23DCAT136
